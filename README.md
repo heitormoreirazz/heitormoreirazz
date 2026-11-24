@@ -7,7 +7,7 @@
 - 📓🎓  Studying Systems Analysis and Development (SAD) 2/4
 - ⛓️     Studying to become a full stack.s
 - 🎓✅  3/3 INI student (Informatic Tecnic for Internet ) at ITB.
-- 💼     Administrative Assistant Apprentice at Merck KGaA, Darmstadt, Germany
+- 💼     Young Apprentice in Administrative Support at Merck KGaA, Darmstadt, Germany
 
 </div>
 
