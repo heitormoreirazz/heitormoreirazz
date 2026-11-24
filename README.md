@@ -1,5 +1,5 @@
-<img width="486" height="162" alt="image" src="https://github.com/user-attachments/assets/137b156d-fb6a-4053-950c-f42f37fa30eb" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Samuel+Heitor.😄+;+Welcome+to+my+perfil.😎)](https://git.io/typing-svg)
+
 
 ##
 
